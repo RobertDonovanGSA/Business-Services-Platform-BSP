@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: TSD Agile SDLC.
+title: Buiness Services Platform.
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/tsd-agile-sdlc" #important: start with /
-url: "http://gsa.github.io/tsd-agile-sdlc/"
+baseurl: "/gsa-bsp" #important: start with /
+url: "http://gsa.github.io/gsa-bsp/"
 
 # Build settings
 markdown: kramdown
@@ -49,9 +49,9 @@ tel: 703-615-3229
     
 # Members information. Shown on About page.
 members:
-  - name: David Larrimore
+  - name: Robert Donovan
     position: Analytics Branch Chief
-    text: The one, the only, David Larrimore
+    text: Borrowed David Larrimore's Agile Template
     img: IMG_0311.JPG
     social:
       - title: envelope #use for email address
