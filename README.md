@@ -1,5 +1,5 @@
-# [TSD-AGILE-SDLC](http://gsa.github.io/tsd-agile-sdlc/)
-Agile SDLC Documentation repository for GSA IT's Technology Solution Division. Please visit our github IO page for more info: http://gsa.github.io/tsd-agile-sdlc/
+# [Busines Services Platform](http://gsa.github.io/tsd-agile-sdlc/)
+This site is to provide a simple way to explain the offerings the Business Services Platform (BSP).  This site will also have the estimated dates for new service offering. 
 
 ## Solid Theme
 This site is using the Jekyll [Solid](https://github.com/st4ple/solid-jekyll) theme.
@@ -12,11 +12,7 @@ Use the instructions found [HERE](https://help.github.com/articles/using-jekyll-
 
 
 ## Running
-
-
-Run the follwoing command:
-
-
+Run the following command:
 	bundle exec jekyll serve
 
 
